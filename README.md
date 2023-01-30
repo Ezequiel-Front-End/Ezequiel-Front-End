@@ -1,6 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color==120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Black=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color==35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ezequiel+Fernandes;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 
 #### Social networks
@@ -20,6 +32,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black=120&section=footer"/>
-
 
  
